@@ -5,8 +5,7 @@ on:
     branches:
       - main
  schedule:
- # 每十分钟
-   - cron: "*/10 * * * *"
+   - cron: "* * * * *"
 
 jobs:
   autogreen:
