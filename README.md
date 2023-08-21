@@ -49,3 +49,6 @@
 ## License
 
 [auto-green](https://github.com/justjavac/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+
+
+- "0 0/12 * * *" 每天0点跟12点执行一次
